@@ -1,0 +1,12 @@
+.textCenter {
+    text-align: center;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.monoText {
+    font-family: monospace;
+    text-indent: 8px;
+}
